@@ -13,7 +13,7 @@
     "@serwist/precaching": "^9.5.11",
     "@serwist/sw": "^9.5.11",
     "@supabase/ssr": "^0.10.3",
-    "@supabase/supabase-js": "^2.106.0",
+    "@supabase/supabase-js": "^2.106.1",
     "dexie": "^4.4.2",
     "dexie-react-hooks": "^4.4.0",
     "next": "16.2.6",
